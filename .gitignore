@@ -1,0 +1,9 @@
+.env
+firebase_credentials.json
+/test
+testEmployeeFB.py
+showFB.py
+insertFB.py
+__pycache__/
+.vscode
+.DS_Store
